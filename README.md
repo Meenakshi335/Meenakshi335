@@ -22,4 +22,4 @@ Hey there! I'm Meenakshi, a proud Pythonista, full-time code wrangler, and part-
 - **Databases:** PostgreSQL, SQLite, MongoDB
 
 ## 🛠️ Open Source Contributions:
-I’m passionate about contributing to open source! Check out my contributions on [GitHub](https://github.com/yourgithub) where I’ve helped make projects better, one PR at a time.
+I’m passionate about contributing to open source! Check out my contributions on [GitHub](https://github.com/Meenakshi335) where I’ve helped make projects better, one PR at a time.
